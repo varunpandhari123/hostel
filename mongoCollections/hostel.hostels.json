@@ -1,0 +1,82 @@
+[
+  {
+    "_id": {
+      "$oid": "645aae56db7005c0dc64fd92"
+    },
+    "name": "Attar Hostel 1",
+    "location": "https://goo.gl/maps/Az89wA3NsPaXfMfP9",
+    "rooms": 350,
+    "capacity": 700,
+    "vacant": 350
+  },
+  {
+    "_id": {
+      "$oid": "645aae56db7005c0dc64fd93"
+    },
+    "name": "Vindhya Hostel",
+    "location": "https://goo.gl/maps/Yh9aW1ZJ2Mf4WxDq9",
+    "rooms": 300,
+    "capacity": 600,
+    "vacant": 250
+  },
+  {
+    "_id": {
+      "$oid": "645aae56db7005c0dc64fd94"
+    },
+    "name": "Ganga Hostel",
+    "location": "https://goo.gl/maps/Xj3L8KZ7w9f5TzjJ8",
+    "rooms": 400,
+    "capacity": 800,
+    "vacant": 400
+  },
+  {
+    "_id": {
+      "$oid": "645aae56db7005c0dc64fd95"
+    },
+    "name": "Yamuna Hostel",
+    "location": "https://goo.gl/maps/Qk5P9D3V5Kf3QzJt9",
+    "rooms": 320,
+    "capacity": 640,
+    "vacant": 320
+  },
+  {
+    "_id": {
+      "$oid": "645aae56db7005c0dc64fd96"
+    },
+    "name": "Narmada Hostel",
+    "location": "https://goo.gl/maps/Rk8Y4J9L6Ff3YqKp7",
+    "rooms": 280,
+    "capacity": 560,
+    "vacant": 280
+  },
+  {
+    "_id": {
+      "$oid": "645aae56db7005c0dc64fd97"
+    },
+    "name": "Godavari Hostel",
+    "location": "https://goo.gl/maps/Wp9Y7K2N8Vf3JqNz9",
+    "rooms": 360,
+    "capacity": 720,
+    "vacant": 360
+  },
+  {
+    "_id": {
+      "$oid": "645aae56db7005c0dc64fd98"
+    },
+    "name": "Kaveri Hostel",
+    "location": "https://goo.gl/maps/Df9Y3J2L7Kf4SxPq7",
+    "rooms": 300,
+    "capacity": 600,
+    "vacant": 300
+  },
+  {
+    "_id": {
+      "$oid": "645aae56db7005c0dc64fd99"
+    },
+    "name": "Tapti Hostel",
+    "location": "https://goo.gl/maps/Pq9Y5K1N6Jf3VxNj8",
+    "rooms": 350,
+    "capacity": 700,
+    "vacant": 350
+  }
+]
